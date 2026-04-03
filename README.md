@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Bibekananda Behera</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Engineer;System+Optimization+Enthusiast;Open+Source+Contributor;Always+Building+Real+Systems&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Engineer;System+Optimization+Enthusiast;Open+Source+Contributor;Always+Building+Real+Systems&center=true&width=500&height=45">
 </p>
 
 ---
