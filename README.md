@@ -81,16 +81,16 @@
 ### ⚖️ [Legal AI Summarization & Clause Risk Analyzer](https://github.com/beherabibekananda) — *May 2026*
 
 > Built a dual-model Legal AI system for the Indian legal domain capable of summarizing judgments, FIRs, and contracts into plain language while detecting high-risk clauses using NLP-based classification. Designed a scalable Kaggle training pipeline with checkpointing, chunked long-document handling, and deployable model exports for downstream web integration.
-
-**Stack:** Python · Hugging Face Transformers · FLAN-T5 · InLegalBERT · Scikit-Learn · Pandas · Kaggle · PyTorch · spaCy
+**
+**Stack:** Python · Hugging Face Transformers · FLAN-T5 · InLegalBERT · Scikit-Learn · Pandas · Kaggle · PyTorch · spaCy**
 
 ---
 
 ### 🔍 [Qivaro — Smart Campus Lost & Found Network](https://github.com/beherabibekananda) — *Mar 2026*
 
 > Enterprise-grade AI-powered Lost & Found platform built for academic campuses with real-time smart matching, secure student verification, PWA support, and instant notifications. Implemented scalable serverless architecture with Supabase, optimized search indexing, and modern animated UI delivering seamless cross-device experience.
-
-**Stack:** React 18 · TypeScript · Tailwind CSS · Framer Motion · Supabase · PostgreSQL · React Query · Vite · Radix UI · WebSockets
+**
+**Stack:** React 18 · TypeScript · Tailwind CSS · Framer Motion · Supabase · PostgreSQL · React Query · Vite · Radix UI · WebSockets**
 
 ---
 
