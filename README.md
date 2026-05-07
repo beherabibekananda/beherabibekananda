@@ -78,6 +78,28 @@
 ---
 
 ## 🚀 Featured Projects
+### ⚖️ [Legal AI Summarization & Clause Risk Analyzer](https://github.com/beherabibekananda) — *Jan 2025*
+
+> Built a dual-model Legal AI system for the Indian legal domain capable of summarizing judgments, FIRs, and contracts into plain language while detecting high-risk clauses using NLP-based classification. Designed a scalable Kaggle training pipeline with checkpointing, chunked long-document handling, and deployable model exports for downstream web integration.
+
+**Stack:** Python · Hugging Face Transformers · FLAN-T5 · InLegalBERT · Scikit-Learn · Pandas · Kaggle · PyTorch · spaCy
+
+---
+
+### 🔍 [Qivaro — Smart Campus Lost & Found Network](https://github.com/beherabibekananda) — *Apr 2026*
+
+> Enterprise-grade AI-powered Lost & Found platform built for academic campuses with real-time smart matching, secure student verification, PWA support, and instant notifications. Implemented scalable serverless architecture with Supabase, optimized search indexing, and modern animated UI delivering seamless cross-device experience.
+
+**Stack:** React 18 · TypeScript · Tailwind CSS · Framer Motion · Supabase · PostgreSQL · React Query · Vite · Radix UI · WebSockets
+
+---
+
+### 📊 [Data To Insight — Student Analytics Platform](https://github.com/beherabibekananda) — *May 2026*
+
+> Full-stack analytics platform transforming raw student data into AI-driven academic insights using predictive risk analysis, interactive dashboards, and automated intervention recommendations. Built real-time visualization pipelines, role-based dashboards, and multi-factor risk scoring models for educational institutions. 
+
+**Stack:** React 18 · Vite · Tailwind CSS · Supabase · PostgreSQL · Recharts · React Hook Form · Zod · React Router
+
 
 ### 🌐 [Tiny Triumph CDC Website](https://github.com/beherabibekananda) — *Jan 2026*
 > Fully responsive child development center website with dark mode, animated hero sections, video galleries, and testimonial carousels. Integrated WhatsApp appointment booking and Supabase backend. Delivered end-to-end as freelance work, generating **₹35,000 in revenue**.
