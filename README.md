@@ -89,6 +89,7 @@
 ### 🔍 [Qivaro — Smart Campus Lost & Found Network](https://github.com/beherabibekananda) — *Mar 2026*
 
 > Enterprise-grade AI-powered Lost & Found platform built for academic campuses with real-time smart matching, secure student verification, PWA support, and instant notifications. Implemented scalable serverless architecture with Supabase, optimized search indexing, and modern animated UI delivering seamless cross-device experience.
+
 > Stack: React 18 · TypeScript · Tailwind CSS · Framer Motion · Supabase · PostgreSQL · React Query · Vite · Radix UI · WebSockets
 
 ---
